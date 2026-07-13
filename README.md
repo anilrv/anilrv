@@ -6,7 +6,7 @@ By day I work on AI agents, MCP servers, and analytics pipelines on the Microsof
 
 ## 🛠️ Things I've built
 
-- 🔒 **[SSL Issue Checker](https://github.com/anilrv/ssl-checker)** — Chrome extension + Go backend that does a live TLS handshake against the site you're viewing and shows the certificate, hosting, and domain-registration details, flagging issues like expired or self-signed certs.
+- 🔒 **[SSL Issue Checker](https://chromewebstore.google.com/detail/ssl-issue-checker/ondenicnbkaepibppfhcafdlfidgfpbm)** — Chrome extension + Go backend that does a live TLS handshake against the site you're viewing and shows the certificate, hosting, and domain-registration details, flagging issues like expired or self-signed certs. ([source](https://github.com/anilrv/ssl-checker))
 - 💸 **[Amazon Price Monitor](https://github.com/anilrv/amazon-price-monitor-azure-function)** — Azure Function that watches amazon.in prices and mails you when a product hits your target.
 - 🌦️ **[Weather Station](https://anilrv.in)** — a live weather station dashboard, serving readings at anilrv.in.
 - 🌬️ **[Mi Air Purifier Datalogger](https://github.com/anilrv/mi-airpurifier2-datalogger)** — pulls sensor readings from a Xiaomi Air Purifier 2 for logging and analysis.
